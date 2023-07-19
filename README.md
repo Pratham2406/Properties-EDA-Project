@@ -11,4 +11,5 @@ Performed Exploratory Data Analysis on Properties in India data of 8 different c
 
 - ### Tools
   EXCEL
+
   SQL 
